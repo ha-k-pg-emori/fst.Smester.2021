@@ -11,6 +11,7 @@ public:
 	~ENEMY();
 	void InitStatus(const char*);
 
+
 	void ShowStarsus();
 
 	char Name[32];
